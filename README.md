@@ -1,11 +1,7 @@
 # Proyecto3_Calculadora_Financiera
 
-![Logo_TRUSTF5](https://github.com/HelenaDR84/Proyecto3_Calculadora_Financiera/assets/149380974/37868104-ede1-432b-8b6c-21ee721bd0ae)
-
-
-
-Comenzando 🚀 📝➕➖✖️🟰➗![PinkcubeCalculatorGIF](https://github.com/HelenaDR84/Proyecto3_Calculadora_Financiera/assets/149380974/ad71ee61-dc5d-4230-9ddf-3cd73cc77400)
-
+  ➕➖✖️🟰➗![PinkcubeCalculatorGIF](https://github.com/HelenaDR84/Proyecto3_Calculadora_Financiera/assets/149380974/ad71ee61-dc5d-4230-9ddf-3cd73cc77400)
+Comenzando 📝
 Este proyecto forma parte de nuestro tercer proyecto en FEMCODERS NORTE, en este caso individual, donde tenemos que hacer una calculadora funcional básica, utilizando JS.
 Yo he añadido un aspecto de página de inicio de una financiera, creando el contenido y el logo. TRUSTF5 es el nombre de la compañía.
 Los algoritmos usados en JS para que la calculadora funcionara correctamente, están explicados en comentarios en el index.js
