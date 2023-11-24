@@ -1,6 +1,6 @@
 # Proyecto3_Calculadora_Financiera
 
-![CalculatorLoadingGIF](https://github.com/HelenaDR84/Proyecto3_Calculadora_Financiera/assets/149380974/d8290ce8-ef08-45d6-9599-7262bacaa26c)
+![Uploading CalculatingNumbersGIF.gif…]()
 
 
   
