@@ -1,6 +1,7 @@
 # Proyecto3_Calculadora_Financiera
 
 ![Logo_TRUSTF5](https://github.com/HelenaDR84/Proyecto3_Calculadora_Financiera/assets/149380974/37868104-ede1-432b-8b6c-21ee721bd0ae)
+
 ![vector-calculator-icon](https://github.com/HelenaDR84/Proyecto3_Calculadora_Financiera/assets/149380974/ac2b12e5-be5c-4e14-9066-365ab4496afe)
 
 Comenzando 🚀
