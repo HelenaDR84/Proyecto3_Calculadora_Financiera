@@ -1,7 +1,8 @@
 # Proyecto3_Calculadora_Financiera
 
-![Uploading AngryCatGIF.gif…]()
 
+
+![desktop_7aa98ced-c654-4bbf-8148-8eaac32fdbfc](https://github.com/HelenaDR84/Proyecto3_Calculadora_Financiera/assets/149380974/c3e1cea9-37b9-4ddc-a702-b8003b7309eb)
 
 
   
